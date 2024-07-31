@@ -1,0 +1,18 @@
+{
+  "name": "zcore-kernel-hal",
+  "description": "Kernel HAL interface definations.",
+  "authors": [{
+    "name": "Runji Wang",
+    "email": "wangrunji0408@163.com"
+  }, {
+    "name": "Yuekai Jia",
+    "email": "equation618@gmail.com"
+  }, {
+    "name": "Luoyuan Xiao",
+    "email": "xiaoluoyuan@163.com"
+  }],
+  "keywords": ["zcore", "zircon", "hal", "driver"],
+  "repo": "kern-crates/zcore-kernel-hal",
+  "test_repos": ["https://github.com/kern-crates/zCore.git"],
+  "doc_url": "https://github.com/kern-crates/zCore/blob/main/README.md"
+}
